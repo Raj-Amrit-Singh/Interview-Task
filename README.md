@@ -10,3 +10,4 @@
 ## Application Interface<br/>
 Click on Add to Cart to add items to cart.<br/>
 To go to cart click on cart icon on top right corner.<br/>
+Scroll down to keep on rendering more items(i.e. infinite scroll)
